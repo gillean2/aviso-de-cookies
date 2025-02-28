@@ -1,0 +1,11 @@
+<script type="text/javascript">
+  tarteaucitron.init({
+    "privacyUrl": "/politica-de-privacidade",  // link para sua política de privacidade
+    "hashtag": "#tarteaucitron",  // hashtag de acesso rápido
+    "cookieslist": true,  // Mostra a lista de cookies
+    "showAlertSmall": true,  // Exibe o alerta no modo pequeno
+    "cookieName": "cookie-consent",  // Nome do cookie
+    "orientation": "bottom",  // Posição do banner
+    "moreInfoLink": true,  // Link para mais informações
+  });
+</script>
